@@ -39,7 +39,7 @@
 
         public static long Sub(int x, int y)
         {
-            return x + y;
+            return x - y;
         }
 
         public static long Mul(int x, int y)
